@@ -30,5 +30,18 @@ Neural Networks and tuning the model to work well in test track.
 
 ## Demo
 
-**_Click Below Image To See The Project in Action_**
+**_Click Below Image To See The Project in Action_**<br><br>
 [![Self_Driving_Simulation_In_Action](https://github.com/venkma/MachineLearning-Fundamentals/blob/master/sc.png)](https://www.youtube.com/watch?v=yifmgYiCRBc&feature=youtu.be)
+
+## Author
+
+**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)** 
+
+
+## Acknowledgments
+### Inspirations 
+- [MIT Technology Review](https://www.technologyreview.com/s/609503/the-open-source-driving-simulator-that-trains-autonomous-vehicles/)
+
+### References
+- [Introduction to Udacity Self-Driving Car Simulator](https://towardsdatascience.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d)
+- [End to End Learning for Self-Driving Cars](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
