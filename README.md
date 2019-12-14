@@ -31,4 +31,4 @@ Neural Networks and tuning the model to work well in test track.
 ## Demo
 
 **_Click Below Image To See The Project in Action_**
-[![Self_Driving_Simulation_In_Action](https://drive.google.com/file/d/1R4I5yvVPaYlRJl0GRiDM6ur6_xH9y_lS/view?usp=sharing)](https://youtu.be/yifmgYiCRBc)
+[![Self_Driving_Simulation_In_Action](https://github.com/venkma/MachineLearning-Fundamentals/blob/master/sc.png)](https://www.youtube.com/watch?v=yifmgYiCRBc&feature=youtu.be)
